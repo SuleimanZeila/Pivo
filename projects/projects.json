@@ -1,0 +1,31 @@
+[
+ 
+  
+  {
+    "name": "Social Enviromental Agency",
+    "desc": "The Social Environmental Agency (SEA) is a non-profit organization in Somalia that have been working since 2012. I got the opportunity to work with them in developing their website and develop a mobile app too.",
+    "image": "seasom.png",
+    "category": "mern",
+    "links": {
+      "view": "https:seasom.org"
+    }
+  },
+  {
+    "name": "Shunaz Construction and supplies Company Limited",
+    "desc": "Shunaz Construction And Supplies Company Limited is a full service general contractor and supplier offering unique hands-on and professional services in Kenya and the larger East African region. Take a look how i developed.",
+    "image": "shunaz.png",
+    "category": "mern",
+    "links": {
+      "view": "https:shunazconstruction.com"
+    }
+  },
+  {
+    "name": "Al-Aqsa bookshop and Electrical Company",
+    "desc": "This is a local  Take a look how i developed.",
+    "image": "aqsa.png",
+    "category": "mern",
+    "links": {
+      "view": "https:al-aqsabookshop.com"
+    }
+  }
+]
